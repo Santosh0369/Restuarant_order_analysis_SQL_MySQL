@@ -1,6 +1,6 @@
 # Restuarant_order_analysis_SQL_MySQL
 
-##📋 Project Overview
+## 📋 Project Overview
 
 - This project involves acting as a Data Analyst for "Taste of the World Café," a restaurant with a diverse menu ranging from American to Asian cuisine. 
 
